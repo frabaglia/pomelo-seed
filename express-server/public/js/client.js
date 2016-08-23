@@ -172,7 +172,7 @@ function queryEntry(uid, callback) {
 				showError(LOGIN_ERROR);
 				return;
 			}
-			callback(data.host, data.port);
+			callback("138.68.3.211", data.port);
 		});
 	});
 };

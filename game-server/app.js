@@ -6,7 +6,6 @@ var routeUtil = require('./app/util/routeUtil');
 var app = pomelo.createApp();
 app.set('name', 'chatofpomelo');
 
-
 // app configure
 app.configure('production|development', function() {
 	// route configures
