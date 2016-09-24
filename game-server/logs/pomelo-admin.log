@@ -68,3 +68,11 @@
 [2016-08-23 13:43:47.022] [INFO] pomelo-admin - [32m[/Users/francoagustinrabaglia/Develop/Games/pomelo-seed/game-server/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "connector", "127.0.0.1", 3005
 [2016-08-23 13:43:47.025] [INFO] pomelo-admin - [32m[/Users/francoagustinrabaglia/Develop/Games/pomelo-seed/game-server/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "chat", "127.0.0.1", 3005
 [2016-08-23 13:43:47.041] [INFO] pomelo-admin - [32m[/Users/francoagustinrabaglia/Develop/Games/pomelo-seed/game-server/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2016-08-23 13:53:21.933] [INFO] pomelo-admin - [32m[/root/triuco/pomelo-seed/game-server/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "master", "127.0.0.1", 3005
+[2016-08-23 13:53:24.530] [INFO] pomelo-admin - [32m[/root/triuco/pomelo-seed/game-server/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "chat", "127.0.0.1", 3005
+[2016-08-23 13:53:24.542] [INFO] pomelo-admin - [32m[/root/triuco/pomelo-seed/game-server/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "chat", "127.0.0.1", 3005
+[2016-08-23 13:53:24.538] [INFO] pomelo-admin - [32m[/root/triuco/pomelo-seed/game-server/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "chat", "127.0.0.1", 3005
+[2016-08-23 13:53:24.489] [INFO] pomelo-admin - [32m[/root/triuco/pomelo-seed/game-server/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "gate", "127.0.0.1", 3005
+[2016-08-23 13:53:24.662] [INFO] pomelo-admin - [32m[/root/triuco/pomelo-seed/game-server/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2016-08-23 13:53:24.645] [INFO] pomelo-admin - [32m[/root/triuco/pomelo-seed/game-server/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "connector", "127.0.0.1", 3005
+[2016-08-23 13:53:24.674] [INFO] pomelo-admin - [32m[/root/triuco/pomelo-seed/game-server/node_modules/pomelo-admin/lib/consoleService.js] [39mtry to connect master: "connector", "127.0.0.1", 3005
