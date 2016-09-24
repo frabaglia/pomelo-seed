@@ -16,4 +16,4 @@
 ##Run game server
 
 - cd game-server
-- pomelo start
+- pomelo start --daemon
