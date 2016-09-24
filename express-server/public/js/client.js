@@ -9,7 +9,7 @@ var LOGIN_ERROR = "There is no server to log in, please wait.";
 var LENGTH_ERROR = "Name/Channel is too long or too short. 20 character max.";
 var NAME_ERROR = "Bad character in Name/Channel. Can only have letters, numbers, Chinese characters, and '_'";
 var DUPLICATE_ERROR = "Please change your name to login.";
-
+var GAME_SERVER_HOST = "138.68.3.211";
 util = {
 	urlRE: /https?:\/\/([-\w\.]+)+(:\d+)?(\/([^\s]*(\?\S+)?)?)?/g,
 	//  html sanitizer
@@ -172,7 +172,7 @@ function queryEntry(uid, callback) {
 				showError(LOGIN_ERROR);
 				return;
 			}
-			callback("138.68.3.211", data.port);
+			callback(GAME_SERVER_HOST, data.port);
 		});
 	});
 };
