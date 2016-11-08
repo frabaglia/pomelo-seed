@@ -231,9 +231,9 @@ $(document).ready(function() {
 				port: port,
 				log: true
 			}, function() {
-				var route = "connector.entryHandler.enter";
+				var route = "connector.entryHandler.connectGame";
 				pomelo.request(route, {
-					username: username,
+					user_id: username,
 					rid: rid
 				}, function(data) {
 					if(data.error) {
